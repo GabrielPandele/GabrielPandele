@@ -78,14 +78,6 @@ I am an Engineer and Developer focused on **Software Engineering, Web Security, 
 | 🕊️ **Pigeon Auction** | `Django` `Tailwind` `SQL` | Secure online niche auction platform featuring real-time bidding architectures. Multi-role user privileges and strict **RBAC** for preventing unauthorized manipulations.<br>🔗 [GitHub Repository](https://github.com/GabrielPandele/auction-demo) |
 | 💼 **e-Balta & SaaS**<br>*(B2B Solutions)* | `PHP` `Python` `Linux` | Production-ready B2B SaaS focused on automation and accounting. Complex document workflows, secure cloud integration, and real-time event notifications.<br>🔗 [e-Balta Platform](https://fishinghub.synergyweb.ro/) \| 🔗 [Accounting Portal](https://clienti.profitup.ro/login) |
 
----
-
-## 📈 `sys.telemetry`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielPandele&show_icons=true&theme=matrix&count_private=true&hide_border=true" alt="Gabriel's GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPandele&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" height="160px" />
-</p>
 
 ---
 
