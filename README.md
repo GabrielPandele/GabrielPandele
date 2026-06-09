@@ -51,15 +51,6 @@ Final-year **Automation and Applied Informatics** student with **2+ years of pra
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielPandele&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Gabriel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPandele&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 📬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marian-gabriel-pandele-09951630b/)
